@@ -66,7 +66,7 @@ Have a problem or idea? Make an [issue](https://github.com/wbthomason/packer.nvi
   symbolic links requires admin privileges on Windows - credit to @TimUntersberger for this note)
 
 ## Quickstart
-To get started, first clone this repository to somewhere on your `packpath`, e.g.:
+To get started, first clone this repository, e.g.:
 
 > Unix, Linux Installation
 
